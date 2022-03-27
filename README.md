@@ -1,12 +1,13 @@
-# Cadena Bank DAPP
+# Cadena PROJECT 2 - PerseCoin Front End
 
-This is the completed code for the Bank DAPP.
+This is the front end for the PerseCoin smart contract.
 
-## To Install
+Appended below is the smart contract README:
 
-Clone the project and run:
+This contract creates PerseCoin, a token that follows the ERC-20 standard.
 
-### `npm install`
-### `npm start`
-### `add your contract address`
-### `add your contract ABI file`
+It is a simple smart contract that inherits functionality from OpenZeppelin. Specifically, PerseCoin is burnable and mintable.
+
+Do take a look!
+
+~ Maria Elizabeth Mutia
