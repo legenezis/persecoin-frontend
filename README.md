@@ -10,4 +10,4 @@ It is a simple smart contract that inherits functionality from OpenZeppelin. Spe
 
 Do take a look!
 
-~ Maria Elizabeth Mutia
+~ Liz Mutia
